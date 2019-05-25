@@ -669,3 +669,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.25-17.25.44:716][343]LogSavePackage: Moving 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Saved/TutorialMapF9466D5D4FFF66FCBCAE67B7DE6FA83E.tmp' to 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Content/GeometryCatcher/Maps/TutorialMap.umap'
 [2019.05.25-17.25.44:792][343]LogFileHelpers: Saving map 'TutorialMap' took 0.506
 [2019.05.25-17.25.44:946][343]LogSavePackage: Moving 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Saved/BP_GameManagerD2A584B54B21EEFAA7B0F294ED3EF960.tmp' to 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Content/GeometryCatcher/Blueprints/BP_GameManager.uasset'
+[2019.05.25-17.30.11:891][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.25-17.31.17:081][885]LogEditorTransaction: Undo Create Binding
+[2019.05.25-17.33.21:240][351]LogEditorTransaction: Undo Edit Text
+[2019.05.25-17.36.21:948][474]LogUObjectHash: Compacting FUObjectHashTables data took   9.55ms
+[2019.05.25-17.36.21:948][474]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GeometryCatcher/Maps/TutorialMap' took 0.181
+[2019.05.25-17.36.21:951][474]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GeometryCatcher/UI/WBP_HUD] ([1] browsable assets)...
+[2019.05.25-17.36.21:951][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/GeometryCatcher/UI/WBP_HUD]
+[2019.05.25-17.36.22:019][474]LogSavePackage: Moving 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Saved/WBP_HUD_Auto4A04B70B3417B6E61FBF54C9C58834A55.tmp' to 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Saved/Autosaves/Game/GeometryCatcher/UI/WBP_HUD_Auto4.uasset'
+[2019.05.25-17.36.22:021][474]LogFileHelpers: Auto-saving content packages took 0.071
+[2019.05.25-17.36.52:621][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2019.05.25-17.36.52:739][648]LogSavePackage: Moving 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Saved/WBP_HUDD0C95EB14931845CB9503C85F87755FD.tmp' to 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2019.05.25-17.36.54:112][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.25-17.36.56:004][753]BlueprintLog: New page: Compile WBP_HUD
+[2019.05.25-17.36.56:155][753]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2019.05.25-17.36.57:087][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GeometryCatcher/UI/WBP_HUD" FILE="E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset" SILENT=true
+[2019.05.25-17.36.57:192][773]LogSavePackage: Moving 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Saved/WBP_HUD028AD45C418832A01CFC6B92D713649F.tmp' to 'E:/ACEDAMIC/3rd Year/SCS 3113 - Game development/GeometryCatcherStarter/Content/GeometryCatcher/UI/WBP_HUD.uasset'
+[2019.05.25-17.36.57:634][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.25-17.37.01:014][913]BlueprintLog: New page: Compile BP_GameManager
+[2019.05.25-17.37.01:484][913]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2019.05.25-17.37.04:338][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.25-17.37.04:406][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.25-17.37.04:477][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.05.25-17.37.04:477][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.25-17.37.04:477][ 41]PIE: New page: PIE session: TutorialMap (May 26, 2019, 4:37:04 AM)
+[2019.05.25-17.37.04:477][ 41]LogPlayLevel: Creating play world package: /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap
+[2019.05.25-17.37.04:483][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005949s)
+[2019.05.25-17.37.04:484][ 41]LogAIModule: Creating AISystem for world TutorialMap
+[2019.05.25-17.37.04:484][ 41]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2019.05.25-17.37.04:484][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GeometryCatcher/Maps/TutorialMap.TutorialMap to /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007243s)
+[2019.05.25-17.37.04:569][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2019.05.25-17.37.04:585][ 41]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.25-17.37.04:619][ 41]LogInit: FAudioDevice initialized.
+[2019.05.25-17.37.04:672][ 41]LogLoad: Game class is 'GM_Tutorial_C'
+[2019.05.25-17.37.04:675][ 41]LogWorld: Bringing World /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2019.05.25-23.07.04
+[2019.05.25-17.37.04:675][ 41]LogWorld: Bringing up level for play took: 0.001704
+[2019.05.25-17.37.04:690][ 41]PIE: Play in editor start time for /Game/GeometryCatcher/Maps/UEDPIE_0_TutorialMap 0.163
+[2019.05.25-17.37.04:690][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.05.25-17.37.22:688][986]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.05.25-17.37.22:688][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.25-17.37.22:738][986]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.25-17.37.22:738][986]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel' has LevelScriptBlueprint '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap' with GeneratedClass '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap_C' with ClassGeneratedBy '/Game/GeometryCatcher/Maps/TutorialMap.TutorialMap:PersistentLevel.TutorialMap'
+[2019.05.25-17.37.22:814][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.25-17.37.22:824][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.05.25-17.37.22:881][987]LogPlayLevel: Display: Destroying online subsystem :Context_9
